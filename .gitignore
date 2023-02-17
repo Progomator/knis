@@ -130,3 +130,6 @@ dmypy.json
 
 #Ustawienia VS
 .vs
+
+#pliki do analizy
+.Dane_opad
